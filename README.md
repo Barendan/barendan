@@ -1,7 +1,7 @@
 # 💫 About Me:
-Full Stack Developer
-Cryptocurrency Trader
-Motorcycle Enthusiast
+Full Stack Developer <br>
+Cryptocurrency Trader <br>
+Motorcycle Enthusiast <br>
 ...with a love for personal development.
 
 

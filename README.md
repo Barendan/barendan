@@ -2,9 +2,10 @@
 
 
 Director of Engineering <br>
-Cryptocurrency Trader <br>
+Full-Stack + Mobile Developer <br>
+CryptoCurrency Capital Partner <br>
 Motorcycle Enthusiast <br>
-...with a love for personal development.
+...committed to constant evolution.
 
 
 # 💻 Tech Stack:

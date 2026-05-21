@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full Stack Developer <br>
+
+
+Director of Engineering <br>
 Cryptocurrency Trader <br>
 Motorcycle Enthusiast <br>
 ...with a love for personal development.
